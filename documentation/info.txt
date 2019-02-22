@@ -1,0 +1,10 @@
+Zusätzlich zu dieser CD mit den Programmdateien sind die Daten als BACKUP auch auf einem FTP-Server verfügbar, auch in einem
+SVN (Subversion) zentralem Projektarchiv (Server der FH Joanneum):
+
+SVN:
+auf http://projekt-itm.fh-joanneum.at/svn/puchea/RAD2KRL
+
+FTP:
+auf http://projekt-itm.fh-joanneum.at/~puchea/RAD2KRL
+
+(alle passwortgeschützt)

@@ -1,0 +1,5 @@
+Um die Python3-Anwendung "rad2krl" auf Windows lauffähig zu machen ist der Python3 (Version 3.0.1) downzuloaden!!!
+Die x86 Windows - Version liegt bei. Für Windows (XP, Vista.. - 32-Bit Versionen) einfach installieren.
+
+Für alle anderen Betriebssysteme (Linux, Mac, oder 64 bit - Versionen) auf http://www.python.org/download/releases/3.0.1/
+nachsehen und gewünschte Version downloaden!

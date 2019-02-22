@@ -1,0 +1,13 @@
+Pfade Filesystem KRC-Steuerung/KUKA-Roboter von...
+
+configmon.ini:
+
+KRC:\ROBOTER\INIT\CONFIGMON.INI
+
+$config.dat:
+
+KRC:\R1\SYSTEM\$CONFIG.DAT
+
+
+Wenn der Roboter fabrikneu ist oder zurueckgesetzt wurde, so sind die fehlenden Einträge dazuzufügen bzw. diese Files in die angegebenen
+Pfade in das Filesystem der Robotersteuerung (KRC - Kuka Robot Control) zu kopieren.

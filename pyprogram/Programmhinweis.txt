@@ -1,0 +1,3 @@
+Um dieses Programm auszuführen ist die Installation von Python3 notwendig.
+
+Bitte zuerst ins Verzeichnis "pyinstaller" wechseln und Hinweise lesen.
